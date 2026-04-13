@@ -55,4 +55,4 @@ for epoch in range(1, 3):   # 2 epochs
             print(f"{model_name} | Epoch {epoch} | Acc: {accuracy}")
             
             
-            //   //pip install mlflow scikit-learn pandas //
+            

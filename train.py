@@ -38,4 +38,4 @@ with mlflow.start_run():
     
     
     
-    //pip install mlflow scikit-learn pandas//
+    
